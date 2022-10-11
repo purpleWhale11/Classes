@@ -1,1 +1,4 @@
 # Classes
+class Car{
+protected:
+};
