@@ -20,3 +20,6 @@ this->speed=speed;
 this->number=number;
 }
 };
+int main{
+BMW obj;
+}
